@@ -1,3 +1,6 @@
 # git and github laboratory
-Git practice laboratory
+## description
+Git practice laboratory, where i practice git and github skills
+## contents
 Nicole Dávila
+## references
