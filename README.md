@@ -8,6 +8,8 @@ Git practice laboratory, where I practice Git and Github skills.
 
 ### Images
 
+![What playing one (1) game and one game only for 3 years will do to you](p100leon.png)
+
 ## References
 [Github documentation](https://docs.github.com/en)
 <br>
