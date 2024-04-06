@@ -21,6 +21,7 @@ print("the sum is: ", sum)
 
 ### Images
 ![What playing one (1) game and one game only for 3 years will do to you](p100leon.png)
+![My favorite DbD map](https://deadbydaylight.com/static/20224f0ff8511f2f7908571f0fe79399/bb1c4/DBD_Apple_Pie_Screenshot_Arcade_1920x1080_VF_331dbb8dbd.jpg)
 
 ## References
 [Github documentation](https://docs.github.com/en)
