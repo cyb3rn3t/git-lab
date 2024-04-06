@@ -1,10 +1,14 @@
-# git and github laboratory
-## description
-Git practice laboratory, where i practice git and github skills
-## contents
-### images
+# Git and Github Gaboratory
 Nicole Dávila
-## references
+
+## Description
+Git practice laboratory, where I practice Git and Github skills.
+
+## Contents
+
+### Images
+
+## References
 [Github documentation](https://docs.github.com/en)
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 [Git documentation](https://git-scm.com/doc)
